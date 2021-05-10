@@ -69,4 +69,6 @@ http://127.0.0.1:8000/
 ## screenshots
 ### Homepage
 ![homepage snap](https://github.com/SrisaiReddy/NavigusAssignment/blob/main/static/screenshots/Screenshot%20(3).png?raw=true)
+### Admin DashBoard
+![dashboard snap](https://github.com/SrisaiReddy/NavigusAssignment/blob/main/static/screenshots/Screenshot%20(4).png?raw=true)
 ---
