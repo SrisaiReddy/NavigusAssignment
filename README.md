@@ -68,7 +68,18 @@ http://127.0.0.1:8000/
 ```
 ## screenshots
 ### Homepage
-![homepage snap](https://github.com/SrisaiReddy/NavigusAssignment/blob/main/static/screenshots/Screenshot%20(3).png?raw=true)
+![homepage snap](https://github.com/SrisaiReddy/NavigusAssignment/blob/main/static/screenshots/Screenshot%20(9).png?raw=true)
+### Admin MainPage
+![dashboard snap](https://github.com/SrisaiReddy/NavigusAssignment/blob/main/static/screenshots/Screenshot%20(14).png?raw=true)
 ### Admin DashBoard
-![dashboard snap](https://github.com/SrisaiReddy/NavigusAssignment/blob/main/static/screenshots/Screenshot%20(4).png?raw=true)
+![dashboard snap](https://github.com/SrisaiReddy/NavigusAssignment/blob/main/static/screenshots/Screenshot%20(3).png?raw=true)
+### Teacher MainPage
+![teacher_snap](https://github.com/SrisaiReddy/NavigusAssignment/blob/main/static/screenshots/Screenshot%20(12).png?raw=true)
+### Student MainPage
+![student_snap](https://github.com/SrisaiReddy/NavigusAssignment/blob/main/static/screenshots/Screenshot%20(13).png?raw=true)
+### About Me
+![aboutme snap](https://github.com/SrisaiReddy/NavigusAssignment/blob/main/static/screenshots/Screenshot%20(10).png?raw=true)
+### Contact Me
+![contactme snap](https://github.com/SrisaiReddy/NavigusAssignment/blob/main/static/screenshots/Screenshot%20(11).png?raw=true)
+
 ---
