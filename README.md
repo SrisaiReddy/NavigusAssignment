@@ -24,7 +24,6 @@ py manage.py createsuperuser
 - Can Add, View, Delete Course/Exams.
 - Can Add Questions To Respective Courses With Options, Correct Answer, And Marks.
 - Can View And Delete Questions Too.
-> **_NOTE:_**  Basically Admin Will Hire Teachers To Manage Courses and Questions.
 
 ### Student
 - Create account (No Approval Required By Admin, Can Login After Signup)
@@ -33,6 +32,5 @@ py manage.py createsuperuser
 - Can View Marks Of Each Attempt Of Each Exam.
 - Question Pattern Is MCQ With 4 Options And 1 Correct Answer.
 
-####Note
-- Teacher Profile has to be approved from the Admin, wheareas Student profile doesn't need any approval.
+> **_NOTE:_** Teacher Profile has to be approved from the Admin, wheareas Student profile doesn't need any approval.
 ---
